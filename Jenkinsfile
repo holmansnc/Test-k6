@@ -21,7 +21,7 @@ pipeline
                     {
                         // checking out repository
                         git branch: 'main', 
-                        url: 'https://github.com/LuisLunaNivelics/test-collection'
+                        url: 'https://github.com/holmansnc/Test-k6.git'
                     }
                 }
             }     
